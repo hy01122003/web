@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## [Home page](https://hy01122003.github.io/web/home.html)
+[Home page](https://hy01122003.github.io/web/home.html)
 
 You can use the [editor on GitHub](https://github.com/hy01122003/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
